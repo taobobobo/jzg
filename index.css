@@ -7,7 +7,7 @@ em,i{font-style:normal;}
 a{text-decoration: none;color:#333;}
 img{border:none;vertical-align:bottom;}
 @media screen and (max-width:1000px){
-    .layout{
+    .auto{
         overflow: hidden;
     } 
     body{
